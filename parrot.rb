@@ -1,8 +1,6 @@
-arg = "Squawk!"
-def parrot(arg)
+def parrot(arg = "Squawk!")
 puts arg
 return arg
 end
-
 
   
