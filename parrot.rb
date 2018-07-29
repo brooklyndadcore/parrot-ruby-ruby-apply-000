@@ -1,8 +1,7 @@
+arg = "Squawk!"
 def parrot(arg)
-  str = "Squawk!"
-  str = arg
-  puts str
-  return str
+puts arg
+return arg
 end
 
 
